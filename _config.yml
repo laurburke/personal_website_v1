@@ -84,10 +84,10 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Analytics
-analytics:
-  provider: "google" #false # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id: UA-204825159-1
+#analytics:
+#  provider: "google" #false # false (default), "google", "google-universal", "custom"
+#  google:
+#    tracking_id: UA-204825159-1
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
